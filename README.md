@@ -1,6 +1,6 @@
 ## *Angela Yu - Dicee Game:*
 
-    - **Completed Task :** [bootstrap_first_project](https://github.com/halilenesozdemir/PureBootstrapWebsite)
+    - **Completed Task :** [Dicee-Game](https://github.com/halilenesozdemir/Dicee-Game)
 
-    - **Github Pages Link :** https://halilenesozdemir.github.io/PureBootstrapWebsite/
+    - **Github Pages Link :** https://halilenesozdemir.github.io/Dicee-Game/
 
